@@ -1,0 +1,3 @@
+[submodule "Fidor/fixofx"]
+	path = Fidor/fixofx
+	url = https://github.com/wesabe/fixofx
